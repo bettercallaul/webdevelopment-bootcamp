@@ -1,0 +1,40 @@
+.kevin {
+  align-items: center;
+}
+
+.kevin:hover {
+  background-color: greenyellow;
+}
+
+.ayam {
+  align-items: center;
+  text-align: center;
+}
+
+.ayam:hover {
+  border-radius: 100%;
+  width: 150px;
+  background-color: brown;
+  border-radius: 50px;
+}
+
+.bulet {
+  border-radius: 80%;
+}
+
+body {
+  background-image: url('bacon.jpg');
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 88px;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: larger;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
